@@ -1,0 +1,1 @@
+from .test_iot_component import *
